@@ -22,3 +22,9 @@ index(d,e)
 a=eval(input("請輸入矩形的長:"))
 b=eval(input("請輸入矩形的寬:"))
 print("矩形的周長為:",int(2*a+2*b),"矩形的面積為:",int(a*b))
+
+b=eval(input("請輸入矩形的寬:"))
+print("矩形的周長為:",int(2*a+2*b),"矩形的面積為:",int(a*b))
+
+b=eval(input("請輸入矩形的寬:"))
+print("矩形的周長為:",int(2*a+2*b),"矩形的面積為:",int(a*b))
