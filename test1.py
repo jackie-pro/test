@@ -25,3 +25,35 @@ def index(a,b):
 d=eval(input("請輸入一個值\"a\":"))
 e=eval(input("請輸入次方數\"b\":"))
 index(d,e)
+
+#輸入任意2個數值a,b 得出a的b次方值
+def index(a,b):
+    x=a**b
+    print("a的b次方為",x)
+d=eval(input("請輸入一個值\"a\":"))
+e=eval(input("請輸入次方數\"b\":"))
+index(d,e)
+
+#輸入任意2個數值a,b 得出a的b次方值
+def index(a,b):
+    x=a**b
+    print("a的b次方為",x)
+d=eval(input("請輸入一個值\"a\":"))
+e=eval(input("請輸入次方數\"b\":"))
+index(d,e)
+
+#輸入任意2個數值a,b 得出a的b次方值
+def index(a,b):
+    x=a**b
+    print("a的b次方為",x)
+d=eval(input("請輸入一個值\"a\":"))
+e=eval(input("請輸入次方數\"b\":"))
+index(d,e)
+
+#輸入任意2個數值a,b 得出a的b次方值
+def index(a,b):
+    x=a**b
+    print("a的b次方為",x)
+d=eval(input("請輸入一個值\"a\":"))
+e=eval(input("請輸入次方數\"b\":"))
+index(d,e)
